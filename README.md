@@ -26,7 +26,7 @@ The goal is to make debugging faster and help developers learn from their mistak
 - 💡 Generate debugging hints
 - 📖 Explain detected issues
 - ✅ Generate corrected code
-- 🤖 AI-powered responses
+- 🤖 AI-powered response
 
 ---
 

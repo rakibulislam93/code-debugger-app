@@ -13,7 +13,7 @@ Users can:
 - Detect coding errors
 - Get debugging hints
 - Understand why the error occurs
-- Generate corrected code
+- Generate corrected code.
 
 The goal is to make debugging faster and help developers learn from their mistakes.
 
